@@ -1,5 +1,3 @@
-# AboutMe
-
 > "Um navio está seguro no porto, mas não é para isso que os navios foram criados" - John A. Shedd
 
 <div>
