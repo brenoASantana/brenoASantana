@@ -6,7 +6,7 @@ Sou Breno Alexandre Santana, um desenvolvedor apaixonado por jogos e música, co
 - [Dev](https://dev.to/brenoasantana)
 
 ## Projetos Destacados
-- [Kaching](https://github.com/brenoASantana/Kaching):Um projeto Full-Stack de sistema de inventário e gestão organizado de forma MVC programado em PHP, HTML e CSS com um CRUD de produtos, funcionários, usuários e fornecedores.
+- [Kaching](https://github.com/brenoASantana/Kaching): Um projeto Full-Stack de sistema de inventário e gestão organizado de forma MVC programado em PHP, HTML e CSS com um CRUD de produtos, funcionários, usuários e fornecedores.
 
 ## Tecnologias e Habilidades
 - Front-end: HTML, CSS
@@ -14,7 +14,10 @@ Sou Breno Alexandre Santana, um desenvolvedor apaixonado por jogos e música, co
 - Banco de Dados: PostgreSQL
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brenoASantana&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoASantansa&theme=tokyonight&show_icons=truee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoASantana&repo=Kaching)](https://github.com/brenoASantana/Kaching)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brenoASantana)](https://github.com/brenoASantana/Kaching)
 
 ## Interesses
 - Ciência de Dados
