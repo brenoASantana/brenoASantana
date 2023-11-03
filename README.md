@@ -14,10 +14,8 @@ Sou Breno Alexandre Santana, um desenvolvedor apaixonado por jogos e música, co
 - Banco de Dados: PostgreSQL
 
 ## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoASantansa&theme=tokyonight&show_icons=truee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoASantana&repo=Kaching)](https://github.com/brenoASantana/Kaching)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brenoASantana)](https://github.com/brenoASantana/Kaching)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoASantana&theme=tokyonight&show_icons=truee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoASantana&layout=donut)](https://github.com/brenoASantana/Kaching)
 
 ## Interesses
 - Ciência de Dados
