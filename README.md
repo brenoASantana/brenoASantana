@@ -15,7 +15,6 @@ Sou Breno Alexandre Santana, um desenvolvedor apaixonado por jogos e música, co
 
 ## Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoASantana&theme=tokyonight&show_icons=truee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoASantana&layout=donut)](https://github.com/brenoASantana/Kaching)
 
 ## Interesses
 - Ciência de Dados
