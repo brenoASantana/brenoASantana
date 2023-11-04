@@ -1,5 +1,5 @@
 ## Sobre Mim
-Sou Breno Alexandre Santana, um desenvolvedor apaixonado por jogos e música, com experiência em Java. Estou sempre em busca de desafios empolgantes e novas oportunidades de aprendizado.
+Sou Breno Alexandre Santana, tenho 18 anos e sou um desenvolvedor Back-End Java com 1 ano e meio de experiência. Estou atualmente no 1º Período do curso de Ciência da Computação na UERJ. Além disso, tenho habilidades em criação e manutenção de sistemas em ambientes corporativos, com ênfase em banco de dados objeto-relacional como o PostgreSQL e controle de versionamento com Git. Fui reconhecido em segundo lugar no desafio de engenharia de software Kraft Baterias EntregPag. Sou apaixonado por jogos e música, sempre em busca de desafios empolgantes e novas oportunidades de aprendizado. Busco sempre me atualizar nas tendências do mercado e novas tecnologias, e sou comprometido com a entrega de resultados.
 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/brenoasantana/)
