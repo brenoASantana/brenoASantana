@@ -7,6 +7,7 @@ Sou Breno Alexandre Santana, tenho 18 anos e sou um desenvolvedor Back-End Java 
 
 ## Projetos Destacados
 - [Kaching](https://github.com/brenoASantana/Kaching): Um projeto Full-Stack de sistema de inventário e gestão organizado de forma MVC programado em PHP, HTML e CSS com um CRUD de produtos, funcionários, usuários e fornecedores.
+- [Calculadora CR UERJ](https://github.com/brenoASantana/calculadora_cr_uerj): um projeto de calculadora de Coeficiente de Rendimento (CR) da UERJ, a fim de facilitar a vida do estudante universitário e concientizar o mesmo sobre como é feito o cálculo do seu CR.
 
 ## Tecnologias e Habilidades
 - Front-end: HTML, CSS
