@@ -1,5 +1,5 @@
 ## Sobre Mim
-Sou Breno Alexandre Santana, tenho 18 anos e sou um desenvolvedor Back-End Java com mais de 1 ano de experiência. Estou atualmente no 2º Período do curso de Ciência da Computação na UERJ. Além disso, tenho habilidades em criação e manutenção de sistemas em ambientes corporativos, com ênfase em banco de dados objeto-relacional como o PostgreSQL e controle de versionamento com Git. Fui reconhecido em segundo lugar no desafio de engenharia de software Kraft Baterias EntregPag. Sou apaixonado por jogos e música, sempre em busca de desafios empolgantes e novas oportunidades de aprendizado. Busco sempre me atualizar nas tendências do mercado e novas tecnologias, e sou comprometido com a entrega de resultados.
+Sou Breno Alexandre Santana, um estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro, apaixonado por desenvolvimento Back-End em Java. Tenho experiência na criação e manutenção de sistemas corporativos, com destaque para o uso de banco de dados objeto-relacional, como o PostgreSQL, e controle de versionamento com Git. Fui reconhecido em segundo lugar no desafio de engenharia de software Kraft Baterias EntregPag. Além disso, especializei-me em desenvolvimento Back-End em Java, contribuindo para os projetos ERP iDempiere e iDempiereLBR, onde realizei atividades de criação e manutenção de processos, relatórios e janelas de informação. Sou comprometido com a entrega de resultados sólidos e inovadores, buscando constantemente novas oportunidades de aprendizado e desenvolvimento. Apaixonado por jogos e música, estou sempre em busca de desafios empolgantes e novas oportunidades de crescimento profissional. 
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/brenoasantana/)
@@ -16,7 +16,7 @@ Aqui estão alguns dos meus projetos destacados:
     - Link: [Kaching](https://github.com/brenoASantana/Kaching)
 
 2. Calculadora CR UERJ
-    - Descrição: um projeto de calculadora de Coeficiente de Rendimento (CR) da UERJ, a fim de facilitar a vida do estudante universitário e conscientizar o mesmo sobre como é feito o cálculo do seu CR.
+    - Descrição: Um projeto de calculadora de Coeficiente de Rendimento (CR) da UERJ, para facilitar a vida do estudante universitário e conscientizá-lo sobre o cálculo do seu CR.
     - Tecnologias utilizadas: Python, Tkinter.
     - Link: [Calculadora CR UERJ](https://github.com/brenoASantana/calculadora_cr_uerj)
 
