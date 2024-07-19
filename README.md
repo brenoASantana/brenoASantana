@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos destacados:
 1. Histórias Mal Contadas DEMO
     - Descrição: Um jogo de terror desenvolvido como projeto final da disciplina de Linguagem de Programação I da UERJ.
     - Tecnologias utilizadas: C, RayLib.
-    - Link: [Kaching](https://github.com/brenoASantana/Historias_Mal_Contadas_DEMO)
+    - Link: [Histórias Mal Contadas DEMO](https://github.com/brenoASantana/Historias_Mal_Contadas_DEMO)
 
 2. Kaching
     - Descrição: Um projeto Full-Stack de sistema de inventário e gestão organizado de forma MVC com um CRUD de produtos, funcionários, usuários e fornecedores.
