@@ -10,12 +10,17 @@ Sou Breno Alexandre Santana, um estudante de Ciência da Computação na Univers
 
 Aqui estão alguns dos meus projetos destacados:
 
-1. Kaching
+1. Histórias Mal Contadas DEMO
+    - Descrição: Um jogo de terror desenvolvido como projeto final da disciplina de Linguagem de Programação I da UERJ.
+    - Tecnologias utilizadas: C, RayLib.
+    - Link: [Kaching](https://github.com/brenoASantana/Historias_Mal_Contadas_DEMO)
+
+2. Kaching
     - Descrição: Um projeto Full-Stack de sistema de inventário e gestão organizado de forma MVC com um CRUD de produtos, funcionários, usuários e fornecedores.
     - Tecnologias utilizadas: HTML, CSS, PHP, phpMyAdmin, MySQL.
     - Link: [Kaching](https://github.com/brenoASantana/Kaching)
 
-2. Calculadora CR UERJ
+3. Calculadora CR UERJ
     - Descrição: Um projeto de calculadora de Coeficiente de Rendimento (CR) da UERJ, para facilitar a vida do estudante universitário e conscientizá-lo sobre o cálculo do seu CR.
     - Tecnologias utilizadas: Python, Tkinter.
     - Link: [Calculadora CR UERJ](https://github.com/brenoASantana/calculadora_cr_uerj)
