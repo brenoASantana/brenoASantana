@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎮 Breno Alexandre Santana</h1>
-  <p><strong>Intern at Globo | Full-Stack Developer | React | Java | Apaixonado por Sistemas Escaláveis</strong></p>
+  <p><strong>Full-Stack Developer | React | Java | Apaixonado por Sistemas Escaláveis</strong></p>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=brenoASantana&color=blueviolet)
 </div>
@@ -9,15 +9,19 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor curioso e aprendiz contínuo, atualmente estagiário na **Globo** trabalhando com **React e JavaScript**. Com experiência em criar e manter sistemas em ambientes corporativos, tenho expertise em:
+Sou um desenvolvedor curioso e aprendiz contínuo com expertise em:
 
 - 🎨 Desenvolvimento Full-Stack (React, JavaScript, Java)
-- 🗄️ Banco de dados objeto-relacional (PostgreSQL)
-- 🔄 Arquitetura de sistemas ERP (iDempiere, iDempiereLBR)
+- 🗄️ Banco de dados objeto-relacional (PostgreSQL, MySQL)
+- 🔄 Arquitetura de sistemas escaláveis
 - 📊 Processamento de dados e relatórios
 - 🎯 Gestão de projetos com controle de versão (Git)
 
-Apaixonado por **jogos, música e inovação**, busco constantemente novos desafios e oportunidades de crescimento profissional.
+Apaixonado por **jogos, música e inovação**, estou sempre em busca de novos desafios e oportunidades de crescimento profissional.
+
+---
+
+> 📌 **Para detalhes completos sobre experiência profissional, certificações e recomendações**, acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/brenoasantana/)
 
 ---
 
@@ -69,46 +73,23 @@ Apaixonado por **jogos, música e inovação**, busco constantemente novos desaf
 
 ---
 
+## 📊 Atividade & Contribuições do GitHub
+
 <div align="center">
 
-![🐍 GitHub contribution grid snake animation](https://raw.githubusercontent.com/brenoASantana/brenoASantana/main/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoASantana&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoASantana&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff)
+
+### 🐍 Cobrinha Devoradora de Commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/brenoASantana/brenoASantana/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/brenoASantana/brenoASantana/raw/output/github-contribution-grid-snake.svg">
+  <img alt="🐍 GitHub contribution grid snake animation" src="https://github.com/brenoASantana/brenoASantana/raw/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
-
----
-
-## 💼 Experiência Profissional
-
-### Globo - Intern Dev | Backstage Conteúdo
-
-*Desenvolvimento Full-Stack com React e JavaScript*
-
-- Desenvolvimento de soluções editorial inovadoras
-- Criação de componentes reutilizáveis em React
-- Colaboração em ambiente híbrido de alta performance
-
-### Ducke - Consultor de Tecnologia
-
-*Implementation de funcionalidades ERP e consultoria técnica*
-
-- Implementação de novas funcionalidades em iDempiere com Java
-- Documentação técnica e alinhamento com clientes
-- Manutenção e melhoria de sistemas existentes
-
-### Entregue - Estagiário de Desenvolvimento
-
-*Desenvolvimento de sistemas ERP robustos*
-
-- Back-End em Java e PostgreSQL
-- Implementação de features e correção de bugs
-- Versionamento com Git em ambiente corporativo
-
----
-
-## 🎓 Formação
-
-- **Bacharelado em Ciência da Computação** - UERJ (2023-2027)
-- **Ensino Técnico em Tecnologia da Informação** - Firjan Senai Barra do Piraí (2022-2023)
 
 ---
 
@@ -120,30 +101,6 @@ Apaixonado por **jogos, música e inovação**, busco constantemente novos desaf
 - 🎬 Edição de Vídeo
 - 🚀 Sistemas Escaláveis & Cloud Computing
 - 🌍 Sustentabilidade e Impacto Social
-
----
-
-## 👥 Voluntariado
-
-**Professor - Curso Programação 0 (UERJ)**
-
-- Lecionei "Sistemas de Numeração" e "Estrutura de Decisão"
-- Contribuição para o desenvolvimento de fundamentos em programação
-- Iniciativa colaborativa do IME UERJ
-
----
-
-## 📈 Desenvolvimento Contínuo
-
-> *"A excelência não é um destino, é uma jornada contínua de aprendizado e melhoria."*
-
-Estou sempre em busca de:
-
-- ✨ Aprender novas tecnologias e frameworks
-- 🤝 Colaborar em projetos inovadores
-- 📚 Contribuir para comunidades open-source
-- � Criar soluções que impactem positivamente na sociedade
-- 🔍 Desafios técnicos complexos e arquitetura escalável
 
 ---
 

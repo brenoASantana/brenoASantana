@@ -1,0 +1,40 @@
+name: Sincronizar LinkedIn com README
+
+on:
+  schedule:
+    # Executa todo dia às 8:00 AM UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  sync-linkedin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Executar script de sincronização
+        env:
+          LINKEDIN_PROFILE_ID: brenoasantana
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_linkedin.py
+
+      - name: Commit e Push (se houver mudanças)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [[ `git status --porcelain` ]]; then
+            git add README.md
+            git commit -m "docs: atualizar README com informações do LinkedIn"
+            git push
+          fi
