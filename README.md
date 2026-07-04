@@ -1,158 +1,76 @@
 <div align="center">
-  <h1>🎮 Breno Alexandre Santana</h1>
-  <p><strong>Intern at Globo | Full-Stack Developer | React | Java | Apaixonado por Sistemas Escaláveis</strong></p>
+
+  <h1>[+..••] Breno Santana</h1>
+  <p><strong> >_ Desenvolvedor | Entusiasta de Game Dev | CS Student @ UERJ </strong></p>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=brenoASantana&color=blueviolet)
+
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoasantana/)
+  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/brenoasantana)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatobrenosantana@outlook.com)
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+### (⌐■_■) O que rola por aqui
 
-Sou um desenvolvedor curioso e aprendiz contínuo, atualmente estagiário na **Globo** trabalhando com **React e JavaScript**. Com experiência em criar e manter sistemas em ambientes corporativos, tenho expertise em:
-
-- 🎨 Desenvolvimento Full-Stack (React, JavaScript, Java)
-- 🗄️ Banco de dados objeto-relacional (PostgreSQL)
-- 🔄 Arquitetura de sistemas ERP (iDempiere, iDempiereLBR)
-- 📊 Processamento de dados e relatórios
-- 🎯 Gestão de projetos com controle de versão (Git)
-
-Apaixonado por **jogos, música e inovação**, busco constantemente novos desafios e oportunidades de crescimento profissional.
+- **[>_]** Soluções full-stack, integrações de APIs e arquiteturas escaláveis.
+- **[+]** Experimentos indie, mecânicas interativas e suspense psicológico.
+- **[#]** Algoritmos, Cálculo e Matemática aplicada.
 
 ---
 
-## 📱 Conectar-se Comigo
+### d(^_^)b Som na Caixa
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoasantana/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/brenoasantana)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatobrenosantana@outlook.com)
-
+  <a href="https://open.spotify.com/user/31nyweih37dkz5wtz72g4c5fqqqa?si=bc6fe14769484b85">
+    <img src="https://spotify-now-playing-svg-eta.vercel.app/api?theme=dark&v=1" alt="Ouvindo agora no Spotify" width="460" height="60" />
+  </a>
 </div>
 
 ---
 
-## 💻 Habilidades Técnicas
+### \o/ Arsenal Tecnológico
 
 <div align="center">
 
-### Linguagens de Programação
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Web & Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas & Controle de Versão
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
+### ( >_<) Histórico de Commits
+
 <div align="center">
 
-![🐍 GitHub contribution grid snake animation](https://raw.githubusercontent.com/brenoASantana/brenoASantana/main/output/github-contribution-grid-snake.svg)
+  ![🐍 GitHub contribution grid snake animation](https://raw.githubusercontent.com/brenoASantana/brenoASantana/main/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 💼 Experiência Profissional
+### ( •_•)>⌐■-■ Base & Interesses
 
-### Globo - Intern Dev | Backstage Conteúdo
-
-*Desenvolvimento Full-Stack com React e JavaScript*
-
-- Desenvolvimento de soluções editorial inovadoras
-- Criação de componentes reutilizáveis em React
-- Colaboração em ambiente híbrido de alta performance
-
-### Ducke - Consultor de Tecnologia
-
-*Implementation de funcionalidades ERP e consultoria técnica*
-
-- Implementação de novas funcionalidades em iDempiere com Java
-- Documentação técnica e alinhamento com clientes
-- Manutenção e melhoria de sistemas existentes
-
-### Entregue - Estagiário de Desenvolvimento
-
-*Desenvolvimento de sistemas ERP robustos*
-
-- Back-End em Java e PostgreSQL
-- Implementação de features e correção de bugs
-- Versionamento com Git em ambiente corporativo
-
----
-
-## 🎓 Formação
-
-- **Bacharelado em Ciência da Computação** - UERJ (2023-2027)
-- **Ensino Técnico em Tecnologia da Informação** - Firjan Senai Barra do Piraí (2022-2023)
-
----
-
-## 🎯 Interesses & Paixões
-
-- 🎮 Desenvolvimento de Jogos & Game Design
-- 📊 Ciência de Dados & Análise
-- 🎵 Música & Produção Áudio
-- 🎬 Edição de Vídeo
-- 🚀 Sistemas Escaláveis & Cloud Computing
-- 🌍 Sustentabilidade e Impacto Social
-
----
-
-## 👥 Voluntariado
-
-**Professor - Curso Programação 0 (UERJ)**
-
-- Lecionei "Sistemas de Numeração" e "Estrutura de Decisão"
-- Contribuição para o desenvolvimento de fundamentos em programação
-- Iniciativa colaborativa do IME UERJ
-
----
-
-## 📈 Desenvolvimento Contínuo
-
-> *"A excelência não é um destino, é uma jornada contínua de aprendizado e melhoria."*
-
-Estou sempre em busca de:
-
-- ✨ Aprender novas tecnologias e frameworks
-- 🤝 Colaborar em projetos inovadores
-- 📚 Contribuir para comunidades open-source
-- � Criar soluções que impactem positivamente na sociedade
-- 🔍 Desafios técnicos complexos e arquitetura escalável
-
----
-
-## 🤝 Vamos Colaborar?
-
-Se você tem interesse em colaborar em algum projeto, deseja discutir ideias ou simplesmente quer conversar sobre tecnologia, **sinta-se livre para entrar em contato!**
+- **[ UERJ ]** Bacharelado em Ciência da Computação.
+- **[ SENAI ]** Técnico em TI.
+- **[ GAME DEV ]** Go, React, Godot e Pygame. Foco em lógicas, narrativas densas e estética retrô (8-bit, glitch art, low-poly).
+- **[ WEB ]** Escalar sistemas rápidos e seguros.
 
 <div align="center">
 
-**Obrigado por visitar meu perfil! 🙏**
+> *"A excelência não é um destino, é uma jornada contínua de aprendizado."*
+> **( ~_~) /**
 
 </div>
